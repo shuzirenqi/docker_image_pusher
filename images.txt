@@ -1,1 +1,1 @@
-tomcat:9.0.108-jre21-temurin-noble
+mysql:8.0.25
