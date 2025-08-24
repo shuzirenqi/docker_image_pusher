@@ -1,3 +1,4 @@
-tutum/influxdb:0.9
-google/cadvisor
-grafana/grafana
+tutum/influxdb:latest
+google/cadvisor:latest
+grafana/grafana:latest
+
