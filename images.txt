@@ -1,4 +1,2 @@
-tutum/influxdb:latest
-google/cadvisor:latest
-grafana/grafana:latest
+influxdb:1.11.8
 
