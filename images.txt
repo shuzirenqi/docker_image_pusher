@@ -1,2 +1,2 @@
-rabbitmq:3.8.8
+rabbitmq:3.8.27-management
 
